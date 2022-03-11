@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sachin1299
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Spring Framework
+- 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 Reach me at Chourasiyasachin12@gmail.com
 
